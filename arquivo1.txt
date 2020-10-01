@@ -1,0 +1,5 @@
+Esse é o primeiro arquivo do projeto (DEV 1)
+
+public void main(String args[]){
+	"Hello Word"
+}
